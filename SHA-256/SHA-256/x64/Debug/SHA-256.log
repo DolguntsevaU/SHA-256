@@ -1,0 +1,9 @@
+﻿  SHA-256.cpp
+C:\Users\dolgu\source\repos\SHA-256\SHA-256\SHA-256.cpp(164,18): warning C4244: =: преобразование "uint64_t" в "uint8_t", возможна потеря данных
+C:\Users\dolgu\source\repos\SHA-256\SHA-256\SHA-256.cpp(165,27): warning C4244: =: преобразование "uint64_t" в "uint8_t", возможна потеря данных
+C:\Users\dolgu\source\repos\SHA-256\SHA-256\SHA-256.cpp(166,27): warning C4244: =: преобразование "uint64_t" в "uint8_t", возможна потеря данных
+C:\Users\dolgu\source\repos\SHA-256\SHA-256\SHA-256.cpp(167,27): warning C4244: =: преобразование "uint64_t" в "uint8_t", возможна потеря данных
+C:\Users\dolgu\source\repos\SHA-256\SHA-256\SHA-256.cpp(168,27): warning C4244: =: преобразование "uint64_t" в "uint8_t", возможна потеря данных
+C:\Users\dolgu\source\repos\SHA-256\SHA-256\SHA-256.cpp(169,27): warning C4244: =: преобразование "uint64_t" в "uint8_t", возможна потеря данных
+C:\Users\dolgu\source\repos\SHA-256\SHA-256\SHA-256.cpp(170,27): warning C4244: =: преобразование "uint64_t" в "uint8_t", возможна потеря данных
+  SHA-256.vcxproj -> C:\Users\dolgu\source\repos\SHA-256\x64\Debug\SHA-256.exe
